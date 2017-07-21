@@ -1,4 +1,4 @@
-#ifndef KEYCODES_DE
+#ifndef SYMBOL
 #define KEYCODES_DE
 
 #include "Keyboard.h"
